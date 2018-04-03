@@ -1,0 +1,2 @@
+# Spy-Robot---Embedded-C-Programming
+This is a robotic application used in Intelligence department and Military application. The physical structure of these robots looks like some house hold equipment or a simple toy nobody will suspect that these are robotic equipment. For example a simple boll. These are complete wireless controlled robots which can be navigated remotely will contains a wireless camera. By seeing the visual data we can navigate these robots. These robots will send secret information to the base station so that we can be prepared for facing it .
